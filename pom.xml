@@ -269,7 +269,7 @@
         </configuration>
       </plugin>
 
-      <!-- geelynote maven鐨勬牳蹇冩彃浠朵箣-complier鎻掍欢榛樿鍙敮鎸佺紪璇慗ava 1.4锛屽洜姝ら渶瑕佸姞涓婃敮鎸侀珮鐗堟湰jre鐨勯厤缃紝鍦╬om.xml閲岄潰鍔犱笂 澧炲姞缂栬瘧鎻掍欢 -->
+      <!-- geelynote maven本地架包发送到服务器上 -->
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-compiler-plugin</artifactId>
